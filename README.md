@@ -1,3 +1,8 @@
+Design ideas used for making this project: 
+
+![project_design](https://user-images.githubusercontent.com/73885358/233293153-7f82f151-0a10-4704-9bdb-68995ef03e46.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
